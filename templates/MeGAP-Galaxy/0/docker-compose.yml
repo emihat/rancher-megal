@@ -1,0 +1,10 @@
+megap-galaxy:
+  image: emihat/megal
+  stdin_open: true
+  tty: true
+  privileged: true
+  ports:
+   - "8082:8082"
+  labels:
+    "Version": "v0.0.1"
+

@@ -1,0 +1,5 @@
+name: MeGAP-Galaxy
+description: |
+  MeGAP on Galaxy
+version: 0.0.1
+category: Rancher Services

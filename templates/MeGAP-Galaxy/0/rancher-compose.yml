@@ -1,0 +1,13 @@
+.catalog:
+  name: "MeGAP-Galaxy"
+  version: "v0.0.1"
+  description: "MeGAP on Galaxy"
+  questions:
+  - variable: "scale"
+    label: "Nodes"
+    description: "Number of nodes"
+    required: true
+    default: 1
+    type: "int"
+megap-galaxy:
+  scale: "${scale}"
