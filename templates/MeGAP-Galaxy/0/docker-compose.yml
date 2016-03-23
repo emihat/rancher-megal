@@ -1,5 +1,5 @@
 megap-galaxy:
-  image: emihat/megal_wf
+  image: emihat/megal
   stdin_open: true
   tty: true
   privileged: true
