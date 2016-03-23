@@ -7,4 +7,6 @@ megap-galaxy:
    - "8082:8082"
   labels:
     "Version": "v0.0.3"
+  volumes:
+  - /mnt/data/megap/:/megapdata
 
