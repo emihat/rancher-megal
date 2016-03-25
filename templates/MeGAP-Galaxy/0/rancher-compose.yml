@@ -1,6 +1,6 @@
 .catalog:
   name: "MeGAP-Galaxy"
-  version: "v0.0.4"
+  version: "v0.0.5"
   description: "MeGAP on Galaxy"
   questions:
   - variable: "scale"
